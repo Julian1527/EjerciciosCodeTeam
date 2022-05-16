@@ -1,5 +1,5 @@
 <?php
-$nombre="Julian Montero";
+$nombre="Julian Montero X_x";
 
 $nombreMayusculas=strtoupper($nombre);
 
